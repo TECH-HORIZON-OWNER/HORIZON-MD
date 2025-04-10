@@ -30,7 +30,7 @@ Horizon md is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Bas
 <a href="https://github.com/TECH-HORIZON-OWNER/HORIZON/fork"><img align="https://files.catbox.moe/r6paqm.jpg" alt="Fork and deploy" height="35" width="150" /></a>
 
 ### SCAN QR CODE 
-<a href="https://vajirasesson-aa26b99b1f04.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://tech-horizon-pair.onrender.com"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 <hr>
 <hr>
