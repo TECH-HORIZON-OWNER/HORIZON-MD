@@ -27,17 +27,22 @@ Horizon md is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Bas
 # 
 ### FORK HORIZON MD REPO
  <p align="left">
-<a href="https://github.com/TECH-HORIZON-OWNER/HORIZON/fork"><img align="https://files.catbox.moe/s6c0mz.jpg" alt="Fork and deploy" height="35" width="150" /></a>
+<a href="https://github.com/TECH-HORIZON-OWNER/HORIZON/fork"><img align="https://files.catbox.moe/r6paqm.jpg" alt="Fork and deploy" height="35" width="150" /></a>
 
 ### SCAN QR CODE 
-[![Click Here](https://tech-horizon-pair.onrender.com)]( )
-# 
-##### 🧑‍💻 USE THIS LINK & YOUR GITHUB LINK FOR DEPLOY YOUR BOT
-            https://heroku.com/deploy?template=
-# 
-# 
+<a href="https://vajirasesson-aa26b99b1f04.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
-``` I am in no way responsible for any mistakes you may make !```
+<hr>
+<hr>
+
+
+## CHOOSE DEPLOYMENT METHOD 👇
+
+
+
+ 
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/TECH-HORIZON-OWNER/HORIZON-MD)
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
 #### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
 + [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/J3UtKH9rqx5JgWEmvs6uO4) 
