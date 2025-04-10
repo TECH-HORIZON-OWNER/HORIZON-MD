@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://files.catbox.moe/r6paqm.jpg" width="300" height="300">
   
-# ◍ HORIZOB MD - V1 ◍ 
+# ◍ HORIZON MD - V1 ◍ 
 <div align="center">
 Horizon md is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is tuna bot. 
 
